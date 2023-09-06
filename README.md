@@ -19,7 +19,7 @@ I believe in the continuous growth mindset, and I'm constantly expanding my know
 
 ## 📫 How to Reach Me
 You can find me on the web through the following channels:
-- GitHub: (https://github.com/daniellmadi)
+- GitHub: (https://github.com/4q-u4)
 
 ## 🤝 Let's Connect
 I'm always open to collaborating on exciting projects or discussing new opportunities. If you have any suggestions, questions, or just want to say hi, feel free to reach out!
