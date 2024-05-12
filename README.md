@@ -20,7 +20,6 @@
 		current_project = 'Cybersecurity research'
 		hobbies = [
 				'Hacking',
-				'',
 			]
 	
 	def getCity():
